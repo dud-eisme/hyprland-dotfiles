@@ -10,8 +10,9 @@ This setup is intentionally bare-bones. No status bar, no widgets, no eye candy 
 * Conky ( Time and Date )
 * Wob ( Volume and Brightness Bars )
 
-## Optional:
+## Optional
 * [HyprDeck](https://github.com/dud-eisme/HyprDeck)
 * Neovim ( Hmmm )
 * Alacritty ( Ummm )
 * Fastfetch ( Yea... )
+* Fish
